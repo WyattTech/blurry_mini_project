@@ -7,4 +7,4 @@
    * Use filter()
    * Use scale();
 
-Task attributed to [Traversy Media](Build 5 Projects With HTML, CSS & JavaScript)
+Task attributed to [Traversy Media](https://www.youtube.com/watch?v=JkeyKeK3V24&list=PLwlT6CFoPR0UpnFjqqByQba-BSisefIye&index=91)
